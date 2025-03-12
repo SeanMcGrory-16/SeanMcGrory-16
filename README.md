@@ -33,21 +33,24 @@ Cyber Security Student at St. John's University
     <a href="https://cloud.google.com/" target="_blank">
         <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform"/>
     </a>
+    <a href="https://azure.microsoft.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+    </a>
     <a href="https://www.docker.com/" target="_blank">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
     </a>
     <a href="https://git-scm.com/" target="_blank">
-        <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     </a>
     <a href="https://www.wireshark.org/" target="_blank">
         <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
     </a>
     <a href="https://nmap.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Nmap-004570?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
-</a>
-<a href="https://github.com/OJ/gobuster" target="_blank">
-    <img src="https://img.shields.io/badge/Gobuster-800000?style=for-the-badge&logo=ghostery&logoColor=white" alt="Gobuster"/>
-</a>
+        <img src="https://img.shields.io/badge/Nmap-004570?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+    </a>
+    <a href="https://github.com/OJ/gobuster" target="_blank">
+        <img src="https://img.shields.io/badge/Gobuster-800000?style=for-the-badge&logo=ghostery&logoColor=white" alt="Gobuster"/>
+    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
     </a>
@@ -69,10 +72,9 @@ Cyber Security Student at St. John's University
     <a href="https://react.dev/" target="_blank">
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
     </a>
-<a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank">
-    <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" alt="MS Office"/>
-</a>
-
+    <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank">
+        <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" alt="MS Office"/>
+    </a>
     <a href="https://www.microsoft.com/en-us/windows/" target="_blank">
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
     </a>
@@ -80,6 +82,5 @@ Cyber Security Student at St. John's University
         <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacOS"/>
     </a>
 </p>
-
 
 ---
