@@ -90,11 +90,8 @@ Rising Cybersecurity Analyst
 - **Created a substitution cipher program** for message cryptography and cryptanalysis | *Data Security and Cryptography*  
   [![GitHub](https://img.shields.io/badge/View%20on%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SeanMcGrory-16/Substitution-Cipher)  
 
-- **Designed a Euclidean Algorithm in Java** to secure internet communications | *Data Security and Cryptography*  
-  [![GitHub](https://img.shields.io/badge/View%20on%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](YOUR_PROJECT_LINK_HERE)  
-
-- **Programmed an Extended Euclidean Algorithm** to perform RSA cryptography | *Data Security and Cryptography*  
-  [![GitHub](https://img.shields.io/badge/View%20on%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](YOUR_PROJECT_LINK_HERE)  
+- **Implemented Euclidean and Extended Euclidean Algorithms in Java** to secure internet communications and perform RSA cryptography | *Data Security and Cryptography*  
+  [![GitHub](https://img.shields.io/badge/View%20on%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SeanMcGrory-16/Euclidean-Algorithm)  
 
 - **Developed Java programs** to find the largest integer in an array | *Computer Programming*  
   [![GitHub](https://img.shields.io/badge/View%20on%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](YOUR_PROJECT_LINK_HERE)  
