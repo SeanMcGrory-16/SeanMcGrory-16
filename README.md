@@ -70,7 +70,7 @@ Cyber Security Student at St. John's University
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
     </a>
     <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank">
-        <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="MS Office"/>
+        <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=ms-office&logoColor=white" alt="MS Office"/>
     </a>
     <a href="https://www.microsoft.com/en-us/windows/" target="_blank">
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
