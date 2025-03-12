@@ -8,8 +8,7 @@ Rising Cyber Security Analyst
 - 🎓 **Cybersecurity Student at St. John’s University** (Expected Graduation: May 2026)  
 - 🌱 **Currently Learning:** Google Cybersecurity Certification, Threat and Vulnerability Detection  
 - 💬 **Ask Me About:** Penetration Testing, Cryptography, Java Programming  
-- 📫 **How to Reach Me:** [seanmmcgrory@gmail.com]
-- 🔗 **LinkedIn:** [Sean McGrory](https://www.linkedin.com/in/sean-m-mcgrory/)
+- 📫 **How to Reach Me:** seanmmcgrory@gmail.com
 - ⚡ **Fun Fact:** I am half Italian and half Scottish  
 
 ---
