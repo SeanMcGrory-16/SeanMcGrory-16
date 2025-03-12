@@ -32,7 +32,9 @@ Rising Cyber Security Analyst
     </a>
     <a href="https://cloud.google.com/" target="_blank">
         <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform"/>
-   
+    </a>
+    <a href="https://azure.microsoft.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
     </a>
     <a href="https://www.docker.com/" target="_blank">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
