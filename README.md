@@ -94,7 +94,7 @@ Rising Cybersecurity Analyst
   [![GitHub](https://img.shields.io/badge/View%20on%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SeanMcGrory-16/Euclidean-Algorithm)  
 
 - **Developed Java programs** to find the largest integer in an array | *Computer Programming*  
-  [![GitHub](https://img.shields.io/badge/View%20on%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](YOUR_PROJECT_LINK_HERE)  
+  [![GitHub](https://img.shields.io/badge/View%20on%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SeanMcGrory-16/Find-Largest-Integer)  
 
 - **Coded Java programs** that perform binary search in a sorted list | *Computer Programming*  
   [![GitHub](https://img.shields.io/badge/View%20on%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](YOUR_PROJECT_LINK_HERE)  
