@@ -30,6 +30,24 @@ Rising Cyber Security Analyst
     <a href="https://aws.amazon.com/" target="_blank">
         <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
     </a>
+    <a href="https://cloud.google.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform"/>
+    </a>
+    <a href="https://azure.microsoft.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/>
+    </a>
+    <a href="https://www.wireshark.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    </a>
     <a href="https://www.java.com/" target="_blank">
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
     </a>
@@ -58,5 +76,6 @@ Rising Cyber Security Analyst
         <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacOS"/>
     </a>
 </p>
+
 
 ---
