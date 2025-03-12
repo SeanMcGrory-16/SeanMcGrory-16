@@ -45,6 +45,12 @@ Rising Cyber Security Analyst
     <a href="https://www.wireshark.org/" target="_blank">
         <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
     </a>
+    <a href="https://nmap.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Nmap-004570?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+</a>
+<a href="https://github.com/OJ/gobuster" target="_blank">
+    <img src="https://img.shields.io/badge/Gobuster-800000?style=for-the-badge&logo=ghostery&logoColor=white" alt="Gobuster"/>
+</a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
     </a>
