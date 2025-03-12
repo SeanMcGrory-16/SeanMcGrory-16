@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sean McGrory
 
-Rising Cyber Security Analyst
+Cyber Security Student at St. John's University
 
 ---
 
