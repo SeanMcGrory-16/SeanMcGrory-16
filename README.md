@@ -9,7 +9,6 @@ Rising Cybersecurity Analyst
 - 🌱 **Currently Learning:** Google Cybersecurity Certification, Threat and Vulnerability Detection  
 - 💬 **Ask Me About:** Penetration Testing, Cryptography, Java Programming  
 - 📫 **How to Reach Me:** seanmmcgrory@gmail.com
-- ⚡ **Fun Fact:** I am half Italian and half Scottish  
 
 ---
 
