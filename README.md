@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sean McGrory
 
-Rising Cybersecurity Analyst
+Rising Cybersecurity Student
 
 ---
 
