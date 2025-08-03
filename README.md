@@ -5,7 +5,7 @@ Rising Cybersecurity Student
 ---
 
 ### 🔍 About Me
-- 🎓 **Cybersecurity Student at St. John’s University** (Expected Graduation: May 2026)  
+- 🎓 **Cybersecurity Student at St. John’s University** (Expected Graduation: May 2026) (Expected Masters Graduation: May 2027) 
 - 🌱 **Currently Learning:** Google Cybersecurity Certification, Threat and Vulnerability Detection  
 - 💬 **Ask Me About:** Penetration Testing, Cryptography, Java Programming  
 - 📫 **How to Reach Me:** seanmmcgrory@gmail.com
